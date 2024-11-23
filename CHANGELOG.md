@@ -1,5 +1,19 @@
 # Changelog
 
+## [15.1.0](https://github.com/AstroNvim/astrocommunity/compare/v15.0.0...v15.1.0) (2024-11-23)
+
+
+### Features
+
+* **pack:** Add purescript pack ([#1222](https://github.com/AstroNvim/astrocommunity/issues/1222)) ([aaaa844](https://github.com/AstroNvim/astrocommunity/commit/aaaa844e45420cd7b5f11b7c399bee919513d1d5))
+* **utility:** Add in live-server.nvim ([#1270](https://github.com/AstroNvim/astrocommunity/issues/1270)) ([e986131](https://github.com/AstroNvim/astrocommunity/commit/e98613137cedd3469c430808621f1c0bb5f81f84))
+
+
+### Bug Fixes
+
+* **cmp-latex-symbols:** use correct repository ([9170837](https://github.com/AstroNvim/astrocommunity/commit/917083747a24022bac4b6feeff29ea1c5febc72f)), closes [#1236](https://github.com/AstroNvim/astrocommunity/issues/1236)
+* **proto:** replace deprecated `bufls` with `buf_ls` ([#1275](https://github.com/AstroNvim/astrocommunity/issues/1275)) ([bb7988a](https://github.com/AstroNvim/astrocommunity/commit/bb7988ac0efe0c17936c350c6da19051765f0e71))
+
 ## [15.0.0](https://github.com/AstroNvim/astrocommunity/compare/v14.1.0...v15.0.0) (2024-11-11)
 
 
